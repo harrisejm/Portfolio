@@ -10,6 +10,14 @@ img {
   margin-right: 20px;
 }
 
+img.navPic {
+  width: 77px;
+}
+
+img.profileAbout {
+  float: left;
+}
+
 body {
   background-image: url("../img/1.jpg");
   background-repeat: no-repeat;
