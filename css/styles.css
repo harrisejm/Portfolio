@@ -3,13 +3,16 @@ h1.info {
 }
 
 img {
-  width: 115px;
+  width: 170px;
   float: left;
   margin-right: 20px;
 }
 
 body {
   background-image: url("../img/1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
 }
 
 
@@ -20,4 +23,21 @@ div.boxMove {
 h1.topTitle {
   font-family: Georgia;
   font-style: italic;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+.test {
+  opacity: 0.5;
+}
+
+.panel-body ul li {
+  line-height: 30px;
+}
+
+.fontGit ul li {
+  font-size: 20px;
+  line-height: 35px;
 }
