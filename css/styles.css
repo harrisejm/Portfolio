@@ -1,5 +1,7 @@
 h1.info {
-  font-size: 20px;
+  font-size: 25px;
+  font-family: Lucida;
+  font-style: italic;
 }
 
 img {
@@ -16,7 +18,7 @@ body {
 }
 
 div.boxMove {
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
 h1.topTitle {
@@ -32,16 +34,34 @@ h1.topTitle {
   line-height: 30px;
 }
 
+.panel-body {
+  font-size: 15px;
+}
+
 .fontGit ul li {
-  font-size: 20px;
   line-height: 35px;
+
 }
 
 .tabs {
   margin-bottom: 15px;
+  border: solid;
+  border-color: #F0F8FF;
+  border-width: 3px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+  background-color: 	#E0FFFF;
 }
+
 
 .nav-item a {
   color: black;
-  font-size: 30px;
+  font-size: 39px;
+  font-family: Lucida;
+
+}
+
+h1.quote {
+  font-size: 20px;
+  font-family: Lucida;
 }
