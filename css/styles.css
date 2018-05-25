@@ -1,0 +1,23 @@
+h1.info {
+  font-size: 20px;
+}
+
+img {
+  width: 115px;
+  float: left;
+  margin-right: 20px;
+}
+
+body {
+  background-image: url("../img/1.jpg");
+}
+
+
+div.boxMove {
+  margin-top: 50px;
+}
+
+h1.topTitle {
+  font-family: Georgia;
+  font-style: italic;
+}
