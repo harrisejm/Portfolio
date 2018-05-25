@@ -12,9 +12,7 @@ body {
   background-image: url("../img/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: scroll;
 }
-
 
 div.boxMove {
   margin-top: 50px;
@@ -29,10 +27,6 @@ h1.topTitle {
   margin-top: 30px;
 }
 
-.test {
-  opacity: 0.5;
-}
-
 .panel-body ul li {
   line-height: 30px;
 }
@@ -40,4 +34,13 @@ h1.topTitle {
 .fontGit ul li {
   font-size: 20px;
   line-height: 35px;
+}
+
+.tabs {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.nav-item a {
+  color: black;
 }
