@@ -12,6 +12,7 @@ body {
   background-image: url("../img/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 div.boxMove {
@@ -37,10 +38,10 @@ h1.topTitle {
 }
 
 .tabs {
-  font-size: 30px;
   margin-bottom: 15px;
 }
 
 .nav-item a {
   color: black;
+  font-size: 30px;
 }
